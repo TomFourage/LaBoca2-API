@@ -11,6 +11,7 @@
         "doctrine/doctrine-bundle": "^2.14",
         "doctrine/doctrine-migrations-bundle": "^3.4",
         "doctrine/orm": "^3.3",
+        "intervention/image": "^2.7",
         "lexik/jwt-authentication-bundle": "^2.21",
         "nelmio/cors-bundle": "^2.5",
         "symfony/console": "6.4.*",
@@ -24,7 +25,8 @@
         "symfony/validator": "6.4.*",
         "symfony/yaml": "6.4.*",
         "twig/extra-bundle": "^2.12|^3.0",
-        "twig/twig": "^2.12|^3.0"
+        "twig/twig": "^2.12|^3.0",
+        "vich/uploader-bundle": "^2.6"
     },
     "config": {
         "allow-plugins": {
